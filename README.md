@@ -1,3 +1,3 @@
-# Шаблон для вестки с Pug Scss
+# Template for layuot Pug Scss
 
 
